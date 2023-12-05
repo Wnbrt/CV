@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>wnbrt cv</title>
+    <LInk rel="STYLESHEET" href="STYLE.CSS"/>
+</head>
+<body>
+    <img src="4903ba8e07be6c957ee03ef420bf5d23.jpg" alt="tanjiro" height="100px" width="100px">
+    <h1>ABISHEK WINBERT T J</h1>
+    <h2 id="ONE">ABOUT</h2><BR/>
+        <!-- ID AND CLASS IS AN SELECTORS -->
+        <P>My name is ABISHEK WINBERT T J. I'm from KANNIYAKUMARI. I've completed my BACHELORS in the stream of BCA</P><BR/>
+        <H3 class="TWO">EDUCATION</H3>
+        
+    
+</body>
+</html>
