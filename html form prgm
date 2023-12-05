@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <label>ENTER YOUR NAME</label>
+        <input type="text">
+        <br/>
+        <label>ENTER YOUR EMAIL</label>
+        <input type="email">
+        <br/>
+        <LABEL>ENTER YOUR PHONE NUMBER</LABEL>
+        <input type="number">
+        <br/>
+        <LABEL>ENTER YOUR PASSWORD</LABEL>
+        <input type="password">
+        <br/>
+        <label>Enter the Date of Birth</label>
+        <input type="date">
+        <br/>
+        <input type="submit">
+        <br/>
+    </form>
+</body>
+</html>
